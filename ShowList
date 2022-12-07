@@ -1,0 +1,33 @@
+{
+  "TVShows":
+  [
+    {"ShowName":"Pantheon",
+    "ShowDescription":"A young woman begins receiving messages from an unknown number that claims to be her deceased father. Trying to uncover the truth, she stumbles upon a larger conspiracy involving the singularity.",
+    "ShowGenre":"Sci-Fi",
+    "ShowScore":"86%",
+    "ShowEPNum":"8",
+    "ShowSeasonNum":"1 Season",
+    "ShowImage":"https://resizing.flixster.com/XsYYpn0eAI21xiP4N_LWCt7nkCs=/206x305/v2/https://flxt.tmsimg.com/assets/p22304320_b_v13_ab.jpg",
+    "ShowLink":"https://www.rottentomatoes.com/tv/pantheon"
+    }
+    
+    {"ShowName":"Death Note",
+    "ShowDescription":"An intelligent high school student goes on a secret crusade to eliminate criminals from the world after discovering a notebook capable of killing anyone whose name is written into it.",
+    "ShowGenre":"Crime, Suspense",
+    "ShowScore":"96%",
+    "ShowEPNum":"26",
+    "ShowSeasonNum":"1 Season",
+    "ShowImage":"https://resizing.flixster.com/hNkgOszzHbSWxfSpUtDblnk3PG4=/206x305/v2/https://flxt.tmsimg.com/assets/p225665_b_v8_ab.jpg",
+    "ShowLink":"https://www.rottentomatoes.com/tv/death_note"
+    }
+    
+    {"ShowName":"Cowboy Bebop",
+    "ShowDescription":"Bounty hunters search for criminals.",
+    "ShowGenre":"Sci-Fi",
+    "ShowScore":"96%",
+    "ShowEPNum":"26",
+    "ShowSeasonNum":"1 Season",
+    "ShowImage":"https://resizing.flixster.com/o3zzfsnSZXrSmwE77Dp5Mx6AB7o=/206x305/v2/https://flxt.tmsimg.com/assets/p360101_b_v8_ad.jpg",
+    "ShowLink":"https://www.rottentomatoes.com/tv/cowboy_bebop"
+    }
+    
