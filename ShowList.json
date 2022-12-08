@@ -9,7 +9,7 @@
     "ShowSeasonNum":"1 Season",
     "ShowImage":"https://resizing.flixster.com/XsYYpn0eAI21xiP4N_LWCt7nkCs=/206x305/v2/https://flxt.tmsimg.com/assets/p22304320_b_v13_ab.jpg",
     "ShowLink":"https://www.rottentomatoes.com/tv/pantheon"
-    }
+    },
     
     {"ShowName":"Death Note",
     "ShowDescription":"An intelligent high school student goes on a secret crusade to eliminate criminals from the world after discovering a notebook capable of killing anyone whose name is written into it.",
@@ -19,7 +19,7 @@
     "ShowSeasonNum":"1 Season",
     "ShowImage":"https://resizing.flixster.com/hNkgOszzHbSWxfSpUtDblnk3PG4=/206x305/v2/https://flxt.tmsimg.com/assets/p225665_b_v8_ab.jpg",
     "ShowLink":"https://www.rottentomatoes.com/tv/death_note"
-    }
+    },
     
     {"ShowName":"Cowboy Bebop",
     "ShowDescription":"Bounty hunters search for criminals.",
@@ -29,7 +29,7 @@
     "ShowSeasonNum":"1 Season",
     "ShowImage":"https://resizing.flixster.com/o3zzfsnSZXrSmwE77Dp5Mx6AB7o=/206x305/v2/https://flxt.tmsimg.com/assets/p360101_b_v8_ad.jpg",
     "ShowLink":"https://www.rottentomatoes.com/tv/cowboy_bebop"
-    }
+    },
+],
 "Status":"OK"
-]
 }
